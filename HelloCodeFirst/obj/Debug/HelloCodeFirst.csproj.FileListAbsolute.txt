@@ -1,0 +1,25 @@
+c:\users\vanchik\documents\visual studio 2013\Projects\HelloCodeFirst\HelloCodeFirst\bin\Debug\HelloCodeFirst.exe.config
+c:\users\vanchik\documents\visual studio 2013\Projects\HelloCodeFirst\HelloCodeFirst\bin\Debug\HelloCodeFirst.exe
+c:\users\vanchik\documents\visual studio 2013\Projects\HelloCodeFirst\HelloCodeFirst\bin\Debug\HelloCodeFirst.pdb
+c:\users\vanchik\documents\visual studio 2013\Projects\HelloCodeFirst\HelloCodeFirst\bin\Debug\EntityFramework.dll
+c:\users\vanchik\documents\visual studio 2013\Projects\HelloCodeFirst\HelloCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vanchik\documents\visual studio 2013\Projects\HelloCodeFirst\HelloCodeFirst\bin\Debug\EntityFramework.xml
+c:\users\vanchik\documents\visual studio 2013\Projects\HelloCodeFirst\HelloCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vanchik\documents\visual studio 2013\Projects\HelloCodeFirst\HelloCodeFirst\obj\Debug\HelloCodeFirst.exe
+c:\users\vanchik\documents\visual studio 2013\Projects\HelloCodeFirst\HelloCodeFirst\obj\Debug\HelloCodeFirst.pdb
+c:\users\vanchik\documents\visual studio 2013\Projects\HelloCodeFirst\HelloCodeFirst\obj\Debug\HelloCodeFirst.Migrations.InitialCreate.resources
+c:\users\vanchik\documents\visual studio 2013\Projects\HelloCodeFirst\HelloCodeFirst\obj\Debug\HelloCodeFirst.csproj.GenerateResource.Cache
+c:\users\vanchik\documents\visual studio 2013\Projects\HelloCodeFirst\HelloCodeFirst\obj\Debug\HelloCodeFirst.Migrations.FirstMigration.resources
+C:\Users\Андрій\Desktop\cs_lab_5_1-master\HelloCodeFirst\bin\Debug\HelloCodeFirst.exe.config
+C:\Users\Андрій\Desktop\cs_lab_5_1-master\HelloCodeFirst\obj\Debug\HelloCodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\Андрій\Desktop\cs_lab_5_1-master\HelloCodeFirst\obj\Debug\HelloCodeFirst.Migrations.InitialCreate.resources
+C:\Users\Андрій\Desktop\cs_lab_5_1-master\HelloCodeFirst\obj\Debug\HelloCodeFirst.Migrations.FirstMigration.resources
+C:\Users\Андрій\Desktop\cs_lab_5_1-master\HelloCodeFirst\obj\Debug\HelloCodeFirst.csproj.GenerateResource.Cache
+C:\Users\Андрій\Desktop\cs_lab_5_1-master\HelloCodeFirst\bin\Debug\HelloCodeFirst.exe
+C:\Users\Андрій\Desktop\cs_lab_5_1-master\HelloCodeFirst\bin\Debug\HelloCodeFirst.pdb
+C:\Users\Андрій\Desktop\cs_lab_5_1-master\HelloCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Андрій\Desktop\cs_lab_5_1-master\HelloCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андрій\Desktop\cs_lab_5_1-master\HelloCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Андрій\Desktop\cs_lab_5_1-master\HelloCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андрій\Desktop\cs_lab_5_1-master\HelloCodeFirst\obj\Debug\HelloCodeFirst.exe
+C:\Users\Андрій\Desktop\cs_lab_5_1-master\HelloCodeFirst\obj\Debug\HelloCodeFirst.pdb
